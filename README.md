@@ -7,4 +7,4 @@ Mein Hobbys sind
 * Surfen
 * sitzen
 
-![VPN](Studium/Semester\ 3/OSbS/Praktikum/Github_Projects/Einkaufsliste/VPN4.png "VPN")
+![VPN](VPN4.png "VPN")
